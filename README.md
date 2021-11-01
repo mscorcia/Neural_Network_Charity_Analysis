@@ -23,7 +23,7 @@ How many neurons, layers, and activation functions did you select for your neura
 
 Was the model able to achieve the target model performance?
 
-- The model did not reach the target 75%. The accuracy for my model was about 62%.
+The model did not reach the target 75%. The accuracy for my model was about 62%.
 
 ![image](https://user-images.githubusercontent.com/80642682/131268983-25b868c0-a80b-416e-9e3a-f46c7ac1606e.png)
 
