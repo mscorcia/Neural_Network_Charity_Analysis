@@ -16,7 +16,7 @@ The purpose of this projet is to use Machine Learning and Neural Networks to cre
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
--  I have 2 hidden layers. The first layer has 80 neurons and the second layer has 30 neurons.  Also included is an output layer. The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
+I have 2 hidden layers. The first layer has 80 neurons and the second layer has 30 neurons.  Also included is an output layer. The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
 
 ![image](https://user-images.githubusercontent.com/80642682/131268943-540d8616-fb86-4038-bc9e-2e45758adf14.png)
 
